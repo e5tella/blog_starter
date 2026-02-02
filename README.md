@@ -2,6 +2,16 @@
 
 A minimal, open-source blog template built with Next.js, Tailwind CSS, and Markdown. Fork it, configure it, deploy it — your blog is live.
 
+## Preview
+
+| List View | Grid View |
+|-----------|-----------|
+| ![List view](public/images/screenshot-list.png) | ![Grid view](public/images/screenshot-grid.png) |
+
+| Article Page | Dark Mode |
+|-------------|-----------|
+| ![Article page](public/images/screenshot-article.png) | ![Dark mode](public/images/screenshot-dark.png) |
+
 ## Features
 
 - **Static site generation** — all pages pre-rendered at build time
